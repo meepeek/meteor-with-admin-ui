@@ -1,0 +1,1 @@
+meteor-with-admin-ui
